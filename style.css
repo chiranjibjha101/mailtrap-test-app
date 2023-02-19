@@ -1,0 +1,59 @@
+.div1{
+    text-align: center;
+    padding-top: 300px;
+
+/* style.css | http://127.0.0.1:5500/style.css?_cacheOverride=1676829936862 */
+}
+.fn {
+    color: burlywood;
+    font-size: 30px;
+  }
+  
+  .ln {
+    color: burlywood;
+    font-size: 30px;
+  }
+  
+  .addressLable {
+    color: burlywood;
+    font-size: 30px;
+    padding-left: 105px;
+  }
+  
+  .fnInput {
+    font-size: 20px;
+  }
+  
+  .lnInput {
+    font-size: 20px;
+  }
+  
+  .emailInput {
+    font-size: 20px;
+  }
+  
+  /* Element | http://127.0.0.1:5500/mailsending-app.html */
+  
+  .emailLabel {
+    color: burlywood;
+    font-size: 30px;
+  }
+  
+  /* Element | http://127.0.0.1:5500/mailsending-app.html */
+  
+  #addressInput {
+    font-size: 20px;
+  }
+  .submitall{
+    font-size: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(187, 17, 17);
+    border-radius: 5px;
+    border-color: aliceblue;
+
+  }
+  .submitall:hover{
+    opacity:0.85;
+  }
